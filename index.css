@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+    font-family: 'Kumbh Sans', sans-serif;
+    margin: 0;
+    padding: 15px;
+    font-size: 12px;
+}
+
+.woman-online {
+    margin-bottom: 0;
+    margin-top: 50px;
+    display: block;
+    margin-left: 20px;
+}
+
+.pattern {
+    margin-top: -90px;
+    margin-left: 50px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.QA {
+    background: #fff;
+    padding: 25px;
+    padding-top: 120px;
+    margin-top: -110px;
+    /*border-top-left-radius: 30px;*/
+    border-radius: 30px;
+}
+
+.headline {
+    text-align: center;
+}
